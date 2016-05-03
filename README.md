@@ -1,2 +1,2 @@
 # hello-world
-Jus' learnin' bou' git.
+Just learning about git.
